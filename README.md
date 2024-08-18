@@ -71,7 +71,7 @@ I’m Nicola, a junior computer engineer from Cagliari, Sardinia (🇮🇹).
 ## University projects
 - [Text categorization with 20 newsgroups dataset - Artificial Intelligence course (2022/2023)](https://github.com/MrDeiv/Artificial-Intelligence-Project)
 - [BirdBuster, an IoT system to detect and scare birds from airport runways - IoT course (2023/2024)](https://github.com/MrDeiv/IOT)
-- [NFC terminals emulating a payment network (2023/2024)](https://github.com/MrDeiv/NetworkSecurityProject)
+- [NFC terminals emulating a payment network - Network Security course (2023/2024)](https://github.com/MrDeiv/NetworkSecurityProject)
 
 ---
 
