@@ -3,7 +3,8 @@
 I’m Nicola, a junior computer engineer from Cagliari, Sardinia (🇮🇹).
 
 - 🎓 Bachelor degree in Computer Engineering @ University of Cagliari
-- 📚 Studying for Master Degree in Computer Engineering, Cybersecurity and Artificial Intelligence
+- 🎓 Master's Degree in Computer Engineering, Cybersecurity and Artificial Intelligence @ University of Cagliari
+- 📚 PhD student in Cybersecurity @ University of Cagliari, IMT Lucca
 
 ---
 
