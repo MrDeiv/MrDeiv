@@ -6,6 +6,8 @@ I’m Nicola, a junior computer engineer from Cagliari, Sardinia (🇮🇹).
 - 🎓 Master's Degree in Computer Engineering, Cybersecurity and Artificial Intelligence @ University of Cagliari
 - 📚 PhD student in Cybersecurity @ University of Cagliari, IMT Lucca
 
+Then, I'm also a CTF player with [Srdnlen](https://srdnlen.it/)!
+
 ---
 
 ## Languages I know...
